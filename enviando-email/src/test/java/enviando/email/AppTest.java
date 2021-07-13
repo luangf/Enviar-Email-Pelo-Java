@@ -39,7 +39,7 @@ public class AppTest {
 									"Luan Gomes", 
 									"Testando e-mail com java", 
 									stringBuilderTextoEmail.toString());
-		enviaEmail.enviarEmail(true);
+		enviaEmail.enviarEmailAnexo(true);
 		
 			/*caso o email nao esteja sendo enviado
 			 * colocar tempo de espera, porem, so da
